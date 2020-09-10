@@ -18,7 +18,7 @@ or you can download this repository.
 
 ## Getting Started
   1. Download/Clone the repo
-  2. The "allegations_20200726939.csv" file is the data set from Propublica
+  2. The "allegations_20200726939.csv" file is the data set from Propublica.org
   2. Open the Jupyter notebook file and make sure all csv files are in the same directory
   4. The Jupyter notebook file will guide you through all my analysis 
   
