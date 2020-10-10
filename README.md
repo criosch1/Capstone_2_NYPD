@@ -17,10 +17,10 @@ My project is will focus on the 33,358 records of Propublica.org published NYPD 
 *All this information can help readers examine the records of officers who have been the subject of a pattern of complaints.*
 
 # Objectives
-- Are ad boosts increasing product revenue?
-- Are product badges increasing product revenue?
-- Does the tag count have an effect on product revenue?
-- Can we predict the units sold of a product by just looking at its tag count?
+- Analyze the amount of complaints per each mayors reign.
+- Which NYPD precient has the most complaints?
+- What is the most common types of complaints in these high-complaint NYPD precients?
+- Are there any career reprecussions (demotion) for having a substantiated complaint?
 
 # Project Steps & Further Questions:
 
