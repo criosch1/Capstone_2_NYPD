@@ -14,7 +14,7 @@ My project is will focus on the 33,358 records of Propublica.org published NYPD 
 
 *Each record in the data lists the name, rank, shield number, and precinct of each officer as of today and at the time of the incident; the age, race and gender of the complainant and the officer; a category describing the alleged misconduct; and whether the CCRB concluded the officers’ conduct violated NYPD rules.*
 
-*All this information can help readers examine the records of officers who have been the subject of a pattern of complaints.
+*All this information can help readers examine the records of officers who have been the subject of a pattern of complaints.*
 
 # Objectives
 - Are ad boosts increasing product revenue?
