@@ -1,3 +1,4 @@
+![alt text](https://ktla.com/wp-content/uploads/sites/4/2020/06/GettyImages-1216825569-3.jpg?w=1280)
 # What Fell Under the Radar? Accountability and the NYPD
 
 ## Blog Version
