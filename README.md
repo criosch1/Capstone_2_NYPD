@@ -7,7 +7,8 @@
 # Summary
 My project is will focus on the 33,358 records of Propublica.org published NYPD complaint records between 1994-2020. I wanted to see if NYPD officers were being held accountable after recieving a substaintuated allegations of misconduct. The data set can be downloaded on the website https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers or you can download this repository.
 
-From the ProPublica website:
+**From the ProPublica website:**
+
 *After New York state repealed the statute that kept police disciplinary records secret, known as 50-a, ProPublica filed a records request with New York City’s Civilian Complaint Review Board, which investigates complaints by the public about NYPD officers. The board provided us with records about closed cases for every police officer still on the force as of late June 2020 who had at least one substantiated allegation against them. The records span decades, from September 1985 to January 2020.*
 
 *We chose to include the basic information disclosed by the CCRB about allegations that investigators deemed unsubstantiated. Unsubstantiated means the CCRB, which has limited investigative powers, was not able to confirm that the alleged incident happened and that it violated the NYPD’s rules.*
@@ -21,8 +22,8 @@ From the ProPublica website:
 # Objectives
 - Analyze the amount of complaints per each mayors reign.
 - Which NYPD precient has the most complaints?
-- What is the most common types of complaints in these high-complaint NYPD precients?
-- Are there any career reprecussions (demotion) for having a substantiated complaint?
+- What is the most common types of complaints in the worst performing NYPD precient?
+- Where there any career reprecussions (demotion) for having a substantiated complaint?
 
 # Project Steps & Further Questions:
 
@@ -38,21 +39,20 @@ From the ProPublica website:
 - Creating functions to help label data.
 - Creating Visualizations.
 
-## Ad Boosts:
-
+## Complaints Per Mayor Reign :
 - 584 products with ad boosts, 757 products without ad boosts.
 - $37,400 average product revenue for products with ad boosts, $40,313 average product revenue for products without ad boosts.
 - *Unsuccessful Products* = 45% of products use ad boosts, *Successful Products* = 41% of products use ad boosts.
 
-## Product Badges:
+## The Precient That Had the Most Complaints:
 - 10% of products have a product badge.
 - Products with badges generate 34% more average revenue per product compared to products without badges.
 
-## Tag Count:
+## The Most Common Complaint at the Worst Performing Precient:
 - Most of the products have between 13 to 19 tags, 16 being the most popular number of tags.
 - Products that have a high tag count (29, 34, 37, 41) are generating a higher average product revenue than the popular 13-19 tag range. 
 
-## Linear Regression Model - Predicting Units Sold using Tag Count:
+## Any Career Reprecussions for NYPD officers having a Substantiated Complaint?:
 - I wanted to see if a linear regression model could be created in order to predict the amount of units sold of a product.
 - Unfortunately due to the way the units sold were inputted in the dataset, there was no way to create an effective model to prediction.
 - A more robust data set is needed for this model creation.
