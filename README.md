@@ -7,6 +7,7 @@
 # Summary
 My project is will focus on the 33,358 records of Propublica.org published NYPD complaint records between 1994-2020. I wanted to see if NYPD officers were being held accountable after recieving a substaintuated allegations of misconduct. The data set can be downloaded on the website https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers or you can download this repository.
 
+From the ProPublica website:
 *After New York state repealed the statute that kept police disciplinary records secret, known as 50-a, ProPublica filed a records request with New York City’s Civilian Complaint Review Board, which investigates complaints by the public about NYPD officers. The board provided us with records about closed cases for every police officer still on the force as of late June 2020 who had at least one substantiated allegation against them. The records span decades, from September 1985 to January 2020.*
 
 *We chose to include the basic information disclosed by the CCRB about allegations that investigators deemed unsubstantiated. Unsubstantiated means the CCRB, which has limited investigative powers, was not able to confirm that the alleged incident happened and that it violated the NYPD’s rules.*
