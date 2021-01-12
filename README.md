@@ -39,24 +39,6 @@ My project is will focus on the 33,358 records of Propublica.org published NYPD 
 - Creating functions to help label data.
 - Creating Visualizations.
 
-## Complaints Per Mayor Reign :
-- 584 products with ad boosts, 757 products without ad boosts.
-- $37,400 average product revenue for products with ad boosts, $40,313 average product revenue for products without ad boosts.
-- *Unsuccessful Products* = 45% of products use ad boosts, *Successful Products* = 41% of products use ad boosts.
-
-## The Precinct That Had the Most Complaints:
-- 10% of products have a product badge.
-- Products with badges generate 34% more average revenue per product compared to products without badges.
-
-## The Most Common Complaint at the Worst Performing Precinct:
-- Most of the products have between 13 to 19 tags, 16 being the most popular number of tags..
-- Products that have a high tag count (29, 34, 37, 41) are generating a higher average product revenue than the popular 13-19 tag range. 
-
-## Any Career Repercussions for NYPD officers having a Substantiated Complaint?:
-- I wanted to see if a linear regression model could be created in order to predict the number of units sold of a product.
-- Unfortunately due to the way the units sold were inputted in the dataset, there was no way to create an effective model for prediction..
-- A more robust data set is needed for this model creation.
-
 
 # Contact Information 
 - **Name:** Christian Rios-Chambi
